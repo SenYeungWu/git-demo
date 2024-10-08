@@ -7,7 +7,7 @@ line 2
 line 3
 
 Website Contents:
-Hello from Lenovo Slim from PowerShell
+Hello from Lenovo Slim from GitBash, PowerShell(not yet)
 
 hi
 
