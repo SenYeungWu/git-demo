@@ -7,7 +7,7 @@ line 2
 line 3
 
 Website Contents:
-Hello
+Hello from Lenovo Slim
 
 hi
 
